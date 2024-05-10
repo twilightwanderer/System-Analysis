@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "2655aa2e08a543d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b945755957b8dc8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ef4b6c038c683f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домашнее задание к лекции 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "519226486e010337",
+    "type": "split",
+    "children": [
+      {
+        "id": "df22faa9bdf5232b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5416b14902f0ae4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98d216a54d8aa469",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e56d5d5bec6349c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "378785e0265ffdf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "636e64131f33ce0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bae85b880ad6fa2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Домашнее задание к лекции 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fef3d94b2b8de7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Домашнее задание к лекции 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed966cc2adea7b0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bd46c25b772f3fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Домашнее задание к лекции 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7ef4b6c038c683f6",
+  "lastOpenFiles": [
+    "().md",
+    "Домашнее задание к лекции 1.md",
+    "README.md",
+    "Pasted image 20240510083454.png",
+    "media"
+  ]
+}
