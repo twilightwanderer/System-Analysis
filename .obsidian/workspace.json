@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "668f89a86ac3eb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домашнее задание к лекции 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +98,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Домашнее задание к лекции 1.md",
-                "collapseAll": false,
+                "file": "Домашнее задание к лекции 2.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Домашнее задание к лекции 1.md",
+                "file": "Домашнее задание к лекции 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Домашнее задание к лекции 1.md"
+                "file": "Домашнее задание к лекции 2.md"
               }
             }
           }
@@ -133,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +158,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7ef4b6c038c683f6",
+  "active": "668f89a86ac3eb40",
   "lastOpenFiles": [
-    "().md",
     "Домашнее задание к лекции 1.md",
+    "Домашнее задание к лекции 2.md",
     "README.md",
+    "1. Домашнее задание к лекции 1.md",
+    "().md",
     "Pasted image 20240510083454.png",
     "media"
   ]
