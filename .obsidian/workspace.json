@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ceee79b3598260b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домашнее задание к лекции 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "378785e0265ffdf3",
@@ -85,8 +99,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Домашнее задание к лекции 3.md",
-                "collapseAll": true,
+                "file": "Домашнее задание к лекции 4.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Домашнее задание к лекции 3.md",
+                "file": "Домашнее задание к лекции 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Домашнее задание к лекции 3.md"
+                "file": "Домашнее задание к лекции 4.md"
               }
             }
           }
@@ -133,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,11 +160,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f183210979a9960d",
+  "active": "5ceee79b3598260b",
   "lastOpenFiles": [
+    "Домашнее задание к лекции 3.md",
+    "Домашнее задание к лекции 4.md",
     "Домашнее задание к лекции 1.md",
     "media/1.svg",
-    "Домашнее задание к лекции 3.md",
     "media/3.svg",
     "Домашнее задание к лекции 2.md",
     "media/2.svg",
