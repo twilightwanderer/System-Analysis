@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Домашнее задание к лекции 5.md",
+                "file": "Этап 2/Домашнее задание к лекции 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Домашнее задание к лекции 5.md",
+                "file": "Этап 2/Домашнее задание к лекции 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Домашнее задание к лекции 5.md",
+                "file": "Этап 2/Домашнее задание к лекции 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Домашнее задание к лекции 5.md"
+                "file": "Этап 2/Домашнее задание к лекции 1.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "e44757fef60f2e88",
   "lastOpenFiles": [
+    "README.md",
+    "Этап 2/Домашнее задание к лекции 1.md",
     "Домашнее задание к лекции 5.md",
     "Домашнее задание к лекции 3.md",
     "Домашнее задание к лекции 4.md",
@@ -157,7 +159,6 @@
     "Домашнее задание к лекции 2.md",
     "media/2.svg",
     "media/1",
-    "README.md",
     "1. Домашнее задание к лекции 1.md",
     "().md",
     "Pasted image 20240510083454.png",
