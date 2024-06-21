@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Этап 2/Домашнее задание к лекции 2.md",
+                "file": "Этап 2/Домашнее задание к лекции 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Этап 2/Домашнее задание к лекции 2.md",
+                "file": "Этап 2/Домашнее задание к лекции 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Этап 2/Домашнее задание к лекции 2.md",
+                "file": "Этап 2/Домашнее задание к лекции 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Этап 2/Домашнее задание к лекции 2.md"
+                "file": "Этап 2/Домашнее задание к лекции 3.md"
               }
             }
           }
@@ -161,8 +161,13 @@
   },
   "active": "8b72f77b93c44010",
   "lastOpenFiles": [
-    "Этап 2/Домашнее задание к лекции 1.md",
+    "media/7.svg",
+    "media/6.svg",
+    "media/5.svg",
+    "media/4.svg",
     "Этап 2/Домашнее задание к лекции 2.md",
+    "Этап 2/Домашнее задание к лекции 3.md",
+    "Этап 2/Домашнее задание к лекции 1.md",
     "README.md",
     "Домашнее задание к лекции 5.md",
     "Домашнее задание к лекции 3.md",
