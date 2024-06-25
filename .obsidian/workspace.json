@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "722aeb74fa735027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Этап 2/Домашнее задание к лекции 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Этап 2/Домашнее задание к лекции 3.md",
+                "file": "Этап 2/Домашнее задание к лекции 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Этап 2/Домашнее задание к лекции 3.md",
+                "file": "Этап 2/Домашнее задание к лекции 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Этап 2/Домашнее задание к лекции 3.md"
+                "file": "Этап 2/Домашнее задание к лекции 4.md"
               }
             }
           }
@@ -159,10 +171,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8b72f77b93c44010",
+  "active": "722aeb74fa735027",
   "lastOpenFiles": [
-    "Этап 2/Домашнее задание к лекции 2.md",
     "Этап 2/Домашнее задание к лекции 3.md",
+    "Этап 2/Домашнее задание к лекции 4.md",
+    "media/9.svg",
+    "media/8.svg",
+    "Этап 2/Домашнее задание к лекции 2.md",
     "media/7.svg",
     "media/6.svg",
     "media/5.svg",
@@ -171,7 +186,6 @@
     "README.md",
     "Домашнее задание к лекции 5.md",
     "Домашнее задание к лекции 3.md",
-    "Домашнее задание к лекции 4.md",
     "Домашнее задание к лекции 1.md",
     "media/1.svg",
     "media/3.svg",
