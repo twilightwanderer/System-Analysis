@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "748d45827b87c9a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Этап 2/Домашнее задание к лекции 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Этап 2/Домашнее задание к лекции 9.md",
+                "file": "Этап 2/Домашнее задание к лекции 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Этап 2/Домашнее задание к лекции 9.md",
+                "file": "Этап 2/Домашнее задание к лекции 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Этап 2/Домашнее задание к лекции 9.md"
+                "file": "Этап 2/Домашнее задание к лекции 10.md"
               }
             }
           }
@@ -146,14 +159,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8b72f77b93c44010",
+  "active": "748d45827b87c9a1",
   "lastOpenFiles": [
     "Этап 2/Домашнее задание к лекции 4.md",
+    "Этап 2/Домашнее задание к лекции 5.md",
     "Этап 2/Домашнее задание к лекции 9.md",
+    "Этап 2/Домашнее задание к лекции 10.md",
     "Этап 2/Домашнее задание к лекции 9-10.md",
     "Этап 2/Домашнее задание к лекции 9",
     "Этап 2/Домашнее задание к лекции 3.md",
-    "Этап 2/Домашнее задание к лекции 5.md",
     "media/10.svg",
     "Этап 2/Домашнее задание к лекции 1.md",
     "media/pizzastore/17.svg",
